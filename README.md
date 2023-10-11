@@ -105,6 +105,6 @@ http://localhost:3000/transacao?filtro=nome-da-categoria
   <img align="center" alt="postman" height="55" width="55" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
   <img align="center" alt="postgresql" height="55" width="55" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png">
   <img align="center" alt="jwt" height="55" width="55" src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png">
-  <img align="center" alt="jwt" height="55" width="50" src="https://seeklogo.com/images/N/nodemon-logo-9F66F45AB1-seeklogo.com.png">
-  <img align="center" alt="jwt" height="50" width="50" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png">
+  <img align="center" alt="nodemon" height="55" width="50" src="https://seeklogo.com/images/N/nodemon-logo-9F66F45AB1-seeklogo.com.png">
+  <img align="center" alt="dotenv" height="50" width="50" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png">
 </div>
